@@ -18394,8 +18394,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\code\\C#\\Razor\\RazorPagesWebApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "c:\\code\\C#\\Razor\\RazorPagesWebApp\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
     },
     {

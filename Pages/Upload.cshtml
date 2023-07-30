@@ -2,8 +2,22 @@
 @model UploadModel
 @{
     ViewData["Title"] = "Upload";
+    <link href="~/css/upload.css" rel="stylesheet">
 }
-<h1>@ViewData["Title"]</h1>
+<div class="upload-all-content">
 
-<p>Lets see if upload page worked</p>
+    <div class="upload-lhs">
+
+<h1>@ViewData["Title"]</h1>
+        <p></p>
 <img src="/images/file-upload.svg">
+        <input type="file"
+            id="avatar" name="avatar"
+            accept="image/png, image/jpeg">
+    </div>
+    <div class="upload-rhs">
+<p>rhs</p>
+
+    </div>
+
+</div>
